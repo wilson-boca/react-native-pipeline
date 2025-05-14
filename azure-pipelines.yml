@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'macOS'
+  vmImage: 'ubuntu-latest'
 
 
 steps:
